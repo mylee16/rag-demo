@@ -1,0 +1,7 @@
+ipykernel
+python-dotenv
+anthropic
+pandas
+numpy
+sentence-transformers
+scikit-learn
